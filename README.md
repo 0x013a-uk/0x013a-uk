@@ -58,9 +58,10 @@ For years, I've maintained privacy, with **0x013a** being my primary nickname of
 
 I'm always open to collaboration, feedback, and support. You can reach me or support my work through:
 
-- [Buy me a Coffee](https://www.buymeacoffee.com/0x013a-uk)
+- [Buy me a Coffee](https://buymeacoffee.com/0x013a.uk)
 - [PayPal](https://paypal.me/iictc)
 <!-- **GoCardless** -->
+
 
 Feel free to explore my repositories, and don't hesitate to get in touch!
 
