@@ -1,4 +1,4 @@
-![0x013a-uk](bitmap.png)
+![0x013a-uk](bitmap-github.png)
 
 
 # Hi there, I'm Paul (0x013a-uk)
