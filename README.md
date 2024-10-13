@@ -1,15 +1,10 @@
-![0x013a-uk](bitmap-github.png)
-
-
 # Hi there, I'm Paul (0x013a-uk)
 
-![GitHub followers](https://img.shields.io/github/followers/0x013a-uk?style=social)
-![GitHub stars](https://img.shields.io/github/stars/0x013a-uk?style=social)
-
+![0x013a-uk](bitmap-github.png)
 
 ## About Me
 
-I'm Paul, an IT consultant with over **25 years** of experience in the tech industry. Since 1997, I've specialized in hardware installations and supporting **Linux**, **Windows Server**, and **Desktop** environments. Recently, I've transitioned to offering **admin support services** for cloud infrastructures and businesses, remotely.
+An IT consultant with over **25 years** of experience in the tech industry. Since 1997, I've specialized in hardware installations and supporting **Linux**, **Windows Server**, and **Desktop** environments. Recently, I've transitioned to offering **admin support services** for cloud infrastructures and businesses, remotely.
 
 
 ## My Passions
@@ -73,6 +68,10 @@ Feel free to explore my repositories, and don't hesitate to get in touch!
 ## GitHub Stats
 
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x013a-uk&show_icons=true&theme=radical)
+
+
+![GitHub followers](https://img.shields.io/github/followers/0x013a-uk?style=social)
+![GitHub stars](https://img.shields.io/github/stars/0x013a-uk?style=social)
 
 
 ## Latest Blog Posts
