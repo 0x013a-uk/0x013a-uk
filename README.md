@@ -75,14 +75,15 @@ Feel free to explore my repositories, and don't hesitate to get in touch!
 ![GitHub stars](https://img.shields.io/github/stars/0x013a-uk?style=social)
 
 
-## Latest Blog Posts
+## Latest Projects / Posts
 
 <!-- Replace the links below with your latest blog posts from your website if available 
 - [Understanding Serverless Architectures](https://0x013a.uk/serverless-architectures)
 - [Automating Tasks with Python Scripts](https://0x013a.uk/automating-tasks-python)
 -->
 
-
+- [HqllrAI - AI ReInvented](https://github.com/0x013a-uk/HqllrAI)
+- [HqllrOS - Hqllr Operating System](https://github.com/0x013a-uk/HqllrOS)
 
 
 
