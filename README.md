@@ -1,4 +1,4 @@
-# Hi there, I'm Paul (0x013a-uk)
+# Hi there, I'm Paul (0x013a.uk)
 
 ![0x013a-uk](bitmap-github.png)
 
@@ -36,7 +36,7 @@ An IT consultant with over **25 years** of experience in the tech industry. Sinc
 - **ArchLinux**
 - **Vivaldi**
 - **Terminator**
-- **Gedit**, **Leafpad** (Lightweight Editors)
+- **Gedit** (Heavily Hacked Lightweight Editor)
 - **VSCode** (Preferred)
 - **tmux** for terminal multiplexing within editors and remotely
 - Customized Gedit setup with both third-party and self-developed plugins
@@ -51,7 +51,7 @@ I develop and contribute to a variety of projects, often focusing on:
 - Building user-friendly applications and scripts
 - Currently been experimenting with cross OS application development utilising Flutter
 
-For years, I've maintained privacy, with **0x013a** being my primary nickname of choice. Now, I'm embracing a more public online presence to share my creations and insights through this GitHub account and my website: [https://0x013a.uk](https://0x013a.uk).
+For years, I've maintained privacy, with **0x013a** being my moniker of choice. Now, I'm embracing a more public online presence to share my creations and insights through this GitHub account and my website: [https://0x013a.uk](https://0x013a.uk).
 
 
 ## Get in Touch
