@@ -64,6 +64,7 @@ For years, I've maintained privacy, with **0x013a** being my moniker of choice. 
 
 - [Hqllr - Document Indexer](https://github.com/0x013a-uk/Hqllr)
   *A lightning-fast, local-first knowledge indexer: atomises documents, eliminates duplication, and prepares data for instant, verifiable search.*
+
   
 - [HqllrAI - AI ReInvented](https://github.com/0x013a-uk/HqllrAI)
   *An adaptive query engine on top of Hqllr Indexer: persona-aware answers with provenance, designed for truth over hype.*
