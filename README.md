@@ -62,23 +62,42 @@ For years, I've maintained privacy, with **0x013a** being my moniker of choice. 
 - [Automating Tasks with Python Scripts](https://0x013a.uk/automating-tasks-python)
 -->
 
-- [Hqllr - Document Indexer](https://github.com/0x013a-uk/Hqllr)
-  *A lightning-fast, local-first knowledge indexer: atomises documents, eliminates duplication, and prepares data for instant, verifiable search.*
+### Hqllr — Local. Sovereign. Verifiable.
+*A Hall of knowledge. The guardian of truth.*
 
+Hqllr is a new breed of knowledge engine and AI ecosystem:
+- **Offline-first** — your data stays with you.
+- **Verifiable** — every answer can be traced to its origin.
+- **Persona-adaptive** — responses shaped to your context.
+
+#### Hqllr Repositories
+
+- [**Hqllr - Document Indexer**](https://github.com/0x013a-uk/Hqllr)
+  *A lightning-fast, local-first knowledge indexer: atomises documents, eliminates duplication, and prepares data for instant, verifiable search.*
   
-- [HqllrAI - AI ReInvented](https://github.com/0x013a-uk/HqllrAI)
-  *An adaptive query engine on top of Hqllr Indexer: persona-aware answers with provenance, designed for truth over hype.*
+- [**HqllrAI - AI ReInvented**](https://github.com/0x013a-uk/HqllrAI)
+  *An adaptive query engine on top of Hqllr Indexer: fact-first persona-aware answers with provenance, designed for truth over hype.*
   
-- [HqllrOS - RAM Based Operating System](https://github.com/0x013a-uk/HqllrOS)
+- [**HqllrOS - RAM Based Operating System**](https://github.com/0x013a-uk/HqllrOS)
   *A RAM-orchestrated, sovereign runtime for Hqllr clusters: simple deployment, replication, and audit-ready federation.*
 
- - [HqllrMobile - Local AI In Your Pocket](https://github.com/0x013a-uk/HqllrMobile)
+ - [**HqllrMobile - Local AI In Your Pocket**](https://github.com/0x013a-uk/HqllrMobile)
    *HqllrMobile brings the power of Hqllr Indexer + AI directly onto your phone or tablet. Ingest, index, and query your knowledge — offline, private, and verifiable.*
 
- - [HqllrEnterprise - Sovereign AI for Business](https://github.com/0x013a-uk/HqllrEnterprise)
+ - [**HqllrEnterprise - Sovereign AI for Business**](https://github.com/0x013a-uk/HqllrEnterprise)
    *From personal knowledge engines to enterprise-scale, verifiable clusters.*
 
    HqllrEnterprise extends the Hqllr ecosystem to meet the demands of businesses, research groups, and institutions. Built for security, compliance, and scale — while staying true to Hqllr’s core principles: **Local. Sovereign. Verifiable.**
+
+- [**HqllrBenchmarks — Performance Metrics**](https://github.com/0x013a-uk/HqllrBenchmarks)  
+  *Performance milestones, scaling metrics, and methodology.*
+
+
+#### Hqllr Whitepaper
+📄 *Coming soon* — the Hqllr Vision Paper.  
+Outlining the challenges of today’s AI landscape and our sovereign-first solution.
+
+---
 
 
 
