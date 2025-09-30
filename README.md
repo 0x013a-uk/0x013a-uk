@@ -54,26 +54,6 @@ I develop and contribute to a variety of projects, often focusing on:
 For years, I've maintained privacy, with **0x013a** being my moniker of choice. Now, I'm embracing a more public online presence to share my creations and insights through this GitHub account and my website: [https://0x013a.uk](https://0x013a.uk).
 
 
-## Get in Touch
-
-I'm always open to collaboration, feedback, and support. You can reach me or support my work through:
-
-- [Buy me a Coffee](https://buymeacoffee.com/0x013a.uk)
-- [PayPal](https://paypal.me/iictc)
-<!-- **GoCardless** -->
-
-
-Feel free to explore my repositories, and don't hesitate to get in touch!
-
-
-## GitHub Stats
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x013a-uk&show_icons=true&theme=radical)
-
-
-![GitHub followers](https://img.shields.io/github/followers/0x013a-uk?style=social)
-![GitHub stars](https://img.shields.io/github/stars/0x013a-uk?style=social)
-
 
 ## Latest Projects / Posts
 
@@ -95,10 +75,31 @@ Feel free to explore my repositories, and don't hesitate to get in touch!
    *HqllrMobile brings the power of Hqllr Indexer + AI directly onto your phone or tablet. Ingest, index, and query your knowledge — offline, private, and verifiable.*
 
  - [HqllrEnterprise - Sovereign AI for Business](https://github.com/0x013a-uk/HqllrEnterprise)
+   *From personal knowledge engines to enterprise-scale, verifiable clusters.*
 
-*From personal knowledge engines to enterprise-scale, verifiable clusters.*
+   HqllrEnterprise extends the Hqllr ecosystem to meet the demands of businesses, research groups, and institutions. Built for security, compliance, and scale — while staying true to Hqllr’s core principles: **Local. Sovereign. Verifiable.**
 
-HqllrEnterprise extends the Hqllr ecosystem to meet the demands of businesses, research groups, and institutions. Built for security, compliance, and scale — while staying true to Hqllr’s core principles: **Local. Sovereign. Verifiable.**
+
+
+
+## Get in Touch
+
+I'm always open to collaboration, feedback, and support. You can reach me or support my work through:
+- [Buy me a Coffee](https://buymeacoffee.com/0x013a.uk)
+- [PayPal](https://paypal.me/iictc)
+<!-- **GoCardless** -->
+
+
+Feel free to explore my repositories, and don't hesitate to get in touch!
+
+
+## GitHub Stats
+
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x013a-uk&show_icons=true&theme=radical)
+
+
+![GitHub followers](https://img.shields.io/github/followers/0x013a-uk?style=social)
+![GitHub stars](https://img.shields.io/github/stars/0x013a-uk?style=social)
 
 
 <!--
