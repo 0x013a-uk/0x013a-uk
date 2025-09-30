@@ -91,9 +91,14 @@ Feel free to explore my repositories, and don't hesitate to get in touch!
 - [HqllrOS - RAM Based Operating System](https://github.com/0x013a-uk/HqllrOS)
   *A RAM-orchestrated, sovereign runtime for Hqllr clusters: simple deployment, replication, and audit-ready federation.*
 
- - [HqllrMobile - Local AI In Your Pocket](https://github.com/0x013a-uk/HqllrOS)
+ - [HqllrMobile - Local AI In Your Pocket](https://github.com/0x013a-uk/HqllrMobile)
    *HqllrMobile brings the power of Hqllr Indexer + AI directly onto your phone or tablet. Ingest, index, and query your knowledge — offline, private, and verifiable.*
 
+ - [HqllrEnterprise - Sovereign AI for Business](https://github.com/0x013a-uk/HqllrEnterprise)
+
+*From personal knowledge engines to enterprise-scale, verifiable clusters.*
+
+HqllrEnterprise extends the Hqllr ecosystem to meet the demands of businesses, research groups, and institutions. Built for security, compliance, and scale — while staying true to Hqllr’s core principles: **Local. Sovereign. Verifiable.**
 
 
 <!--
