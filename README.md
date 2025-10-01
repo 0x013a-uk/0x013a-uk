@@ -7,10 +7,10 @@
 ---
 
 ## Why I'm Here
-For over 25 years, I’ve been quietly developing systems and experimenting under the moniker **0x013a**.  
-What started as private research is now being developed **for my family’s holding company** — forming the foundation of **Hqllr**, a new breed of sovereign AI and knowledge ecosystem.  
+  
+What started as private research and experiments over the years, is now being developed **for my family’s holding company** — forming the foundation of **Hqllr**, a new breed of sovereign AI and knowledge ecosystem.  
 
-This is why I’ve stepped into the public space:  
+This is here to:
 - To share the vision behind **Hqllr**,  
 - To showcase progress transparently,  
 - And to connect with collaborators, contributors, and future users.  
