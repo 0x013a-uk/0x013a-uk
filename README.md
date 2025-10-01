@@ -1,4 +1,8 @@
-⚡ Currently developing **Hqllr** — a sovereign AI ecosystem for my family’s holding company.
+⚡ Currently developing;
+- **Hqllr** — a sovereign AI ecosystem for my family’s holding company.
+- **DJAM** — a lightweight Dart based JAMStack.
+
+---
 
 # Hi there, I'm Paul (0x013a-uk)
 
@@ -50,6 +54,20 @@ Hqllr is a family-built knowledge engine and AI ecosystem:
 #### Hqllr Whitepaper
 📄 *Coming soon* — the **Hqllr Vision Paper**  
 Outlining the challenges of today’s AI landscape and our sovereign-first solution.  
+
+
+### DJAM - A lightweight Dart based JAMStack.
+
+A modern JAMStack build in Dart, featuring
+- Router,
+- Markdown based content,
+- Embedded templating,
+- Taxonomies,
+- JSON Datasets,
+
+#### DJAM Repositories
+
+- [**DJAM - Lightweight Dart based JAMStack**](https://github.com/0x013a-uk/DJAM)  
 
 ---
 
