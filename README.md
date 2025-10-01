@@ -1,6 +1,6 @@
 ⚡ Currently developing **Hqllr** — a sovereign AI ecosystem for my family’s holding company.
 
-# Hi there, I'm Paul (0x013a.uk)
+# Hi there, I'm Paul (0x013a-uk)
 
 ![0x013a-uk](bitmap-github.png)
 
